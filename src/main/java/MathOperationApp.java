@@ -38,5 +38,6 @@ public class MathOperationApp {
         IMathFunction.printResult(6,3,"Division", divide);
 
 
+
     }
 }
